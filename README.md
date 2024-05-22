@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bao Duy</h1>
-<h3 align="center">Hello, my name is Bao Duy and as a fellow FPT Software Engineering student, I'm excited to share with you the power of GitHub - the essential tool for unlocking your coding potential.</h3>
+<h3 align="center">Hello, my name is Bao Duy and as a fellow FPT Software Engineering student.</h3>
 <img src="https://assets-global.website-files.com/6344c9cef89d6f2270a38908/64d6bd51ab17a00828b644bf_header-p-800.webp" style ="height=100% ; width=100%" >
 
 - 🌱 I’m currently learning **currently learning C#, Java, and potentially Python in the future**
